@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [unreleased]
+## [0.0.1-aarch64](https://github.com/juic3b0x/magisk_vendor_boot_patcher/compare/v0.0.1..v0.0.1-aarch64) - 2024-02-25
 
 ### ⛰️  Features
 
