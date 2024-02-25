@@ -1,4 +1,6 @@
 #!/bin/bash
+export KEEPVERITY=true
+export KEEPFORCEENCRYPT=true
 
 # Function to save log
 save_log() {
