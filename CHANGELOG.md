@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [0.0.1] - 2024-02-25
+## [0.0.1-arm](https://github.com/juic3b0x/magisk_vendor_boot_patcher/compare/v0.0.1..v0.0.1-arm) - 2024-02-25
 
 ### ⛰️  Features
 
