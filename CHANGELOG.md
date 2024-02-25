@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## [unreleased]
+## [0.1.0] - 2024-02-25
 
 ### ⛰️  Features
 
@@ -19,6 +19,7 @@
 - Update issue templates - ([7d55488](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/7d554883cdb00998a84621bd562acfcc2a3eef2d))
 - Update and rename ReadMe.txt to README.md - ([14a77e6](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/14a77e65682c73b17e061eb7680736d1325617d5))
 - Update CHANGELOG.md - ([dc1944e](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/dc1944e025fd6c278a879a9e6d5401be6c991156))
+- Updated CHANGELOG.md - ([1d782bb](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/1d782bbde274bbce05cc54dade456a48bb506a9b))
 
 ### ⚙️ Miscellaneous Tasks
 
