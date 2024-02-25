@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [0.0.1-arm](https://github.com/juic3b0x/magisk_vendor_boot_patcher/compare/v0.0.1-arm..v0.0.1-arm) - 2024-02-25
+
+### 🚜 Refactor
+
+- Updated codebase to work on Android arm devices. - ([9ca9c82](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/9ca9c828c9b66d4b2df0960d144f17d936c7765c))
+
 ## [0.0.1-arm](https://github.com/juic3b0x/magisk_vendor_boot_patcher/compare/v0.0.1..v0.0.1-arm) - 2024-02-25
 
 ### ⛰️  Features
