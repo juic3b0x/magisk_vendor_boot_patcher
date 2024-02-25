@@ -1,11 +1,5 @@
 # CHANGELOG
 
-## [0.0.2](https://github.com/juic3b0x/magisk_vendor_boot_patcher/compare/v0.0.1..v0.0.2) - 2024-02-25
-
-### ⚙️ Miscellaneous Tasks
-
-- *(docs)* Updated CHANGELOG.md - ([9761619](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/976161945ba5cd7e98b444d493a4e72a84109322))
-
 ## [0.0.1] - 2024-02-25
 
 ### ⛰️  Features
