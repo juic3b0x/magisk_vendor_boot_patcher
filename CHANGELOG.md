@@ -1,6 +1,6 @@
 # CHANGELOG.md
 
-## [v0.01]
+## [v0.01: Initial Release --> Magisk 27.0-vb]
 
 ### ⛰️  Features
 
