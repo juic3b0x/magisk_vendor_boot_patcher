@@ -11,18 +11,19 @@
 
 - Added CHANGELOG.md - ([203c768](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/203c768e32be24dc653682b4c35584e0e534195f))
 - Updated CHANGELOG.md - ([972954d](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/972954d5e166750abc5b93faf8d7d4af6010f45e))
-- Create LICENSE - ([0272068](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/0272068a25858f9a029b7154946bd56ef07d2105))
-- Create CODE_OF_CONDUCT.md - ([9778a2d](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/9778a2d618d26bd37f181cdc1f1725a5227f3d70))
-- Update CHANGELOG.md - ([7d9a89e](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/7d9a89e1d302dbbf8b1cf4c2df0690bbdb8d488c))
-- Create CONTRIBUTING.md - ([3b3d5e2](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/3b3d5e24b6bf1f1f70139e76019d86180205899a))
-- Create SECURITY.md - ([954888c](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/954888c516afe92142184441c4cbd89fa9313ded))
-- Update issue templates - ([7d55488](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/7d554883cdb00998a84621bd562acfcc2a3eef2d))
-- Update and rename ReadMe.txt to README.md - ([14a77e6](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/14a77e65682c73b17e061eb7680736d1325617d5))
-- Update CHANGELOG.md - ([dc1944e](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/dc1944e025fd6c278a879a9e6d5401be6c991156))
-- Updated CHANGELOG.md - ([1d782bb](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/1d782bbde274bbce05cc54dade456a48bb506a9b))
+- Create LICENSE - ([fd5f8c5](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/fd5f8c5a8cabcaa0c529d7679274d2d1f2d07764))
+- Create CODE_OF_CONDUCT.md - ([a1a2e64](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/a1a2e644cddd60e83e10168bba6f0bc4e8a068b2))
+- Update CHANGELOG.md - ([167edad](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/167edad01d6663486c7fde520336fe3da4753354))
+- Create CONTRIBUTING.md - ([ca1c9cb](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/ca1c9cba995491439c0f403e998e6f0c98a920f3))
+- Create SECURITY.md - ([4995744](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/49957446af92f55915642c1eaacbbe9cd13f6ea6))
+- Update issue templates - ([b24e903](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/b24e903a9927f0c72b00c5d934c5df9348a7d029))
+- Update and rename ReadMe.txt to README.md - ([a5b1870](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/a5b187083368288d6559487b565d1449a3126a38))
+- Update CHANGELOG.md - ([3429bda](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/3429bdaf60aa227d20853deb7e132d199434fd25))
+- Updated CHANGELOG.md - ([7cbf83d](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/7cbf83d095a0a2026d1113d56e38acc3a682d34c))
 
 ### ⚙️ Miscellaneous Tasks
 
-- Delete Changelog.txt - ([2f59d8a](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/2f59d8a15068e5070826160bf0536d2fb010cb9e))
+- Delete Changelog.txt - ([6814fb6](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/6814fb6fa367acaa6b440ed7f16bb28f79ffa350))
+- Docs: Updated CHANGELOG.md - ([1870bb7](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/1870bb7e22bce6140def29f4907d38066bd86c26))
 
 <!-- Magisk Vendor Boot Patcher -->
