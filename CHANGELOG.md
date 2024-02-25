@@ -1,11 +1,15 @@
 # CHANGELOG
 
-## [0.0.1] - 2024-02-25
+## [unreleased]
 
 ### ⛰️  Features
 
 - Initial Commit - ([fd0a589](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/fd0a589432be95139939521365f6b6a5451dcb37))
 - Added logs, banner. - ([32e04d3](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/32e04d3350e5de5a3280d5f514ae3083b03ea347))
+
+### 🚜 Refactor
+
+- Updated codebase to work on Android aarch64 devices - ([faf10da](https://github.com/juic3b0x/magisk_vendor_boot_patcher/commit/faf10dadcf00582baa14acd46bb6bf1e3e4213da))
 
 ### 📚 Documentation
 
