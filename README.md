@@ -21,3 +21,8 @@
 4. Flash or test boot the newly created `magisk_patched_vendor_boot.img`.
 
 5. ENJOY!!
+
+## Credits
+
+- [Magisk](https://github.com/topjohnwu/Magisk): the powerful root tool.
+- [PizzaG](https://github.com/PizzaG): Original script.
