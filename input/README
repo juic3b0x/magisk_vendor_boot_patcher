@@ -1,0 +1,5 @@
+Place your vendor_boot.img file in this directory.
+
+This directory is intended for your input vendor boot image file. 
+The Magisk Vendor Boot Image Patcher script will automatically look 
+for the vendor_boot.img in this directory during the patching process.
